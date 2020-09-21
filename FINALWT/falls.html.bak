@@ -1,0 +1,68 @@
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body style="background: white">
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1>Waterfalls</h1>
+			</div>
+			<div id="menu">
+				<ul>
+					<li ><a href="index.html">Home</a></li>
+					<li><a href="login.html">Login</a></li>
+					<li><a href="register.html">Register</a></li>
+					<li><a href="about.html">about.html</a></li>
+				</ul>
+			</div>
+		</div>
+	</div><br><br><br><br>
+	<!-- end #page --> 
+	<div id="featured-content">
+		<div id="column1">
+			<h2>Athirapally-Waterfalls</h2><br>
+			<p><img src="images/Athirapally-Waterfalls-Kerala.jpg" width="300" height="150" alt="" /></p>
+			
+			
+		</div>
+		<div id="column2">
+			<h2>Bhagsu-Waterfalls</h2><br>
+			<p><img src="images\Bhagsu-Waterfalls-Himachal-Pradesh.jpg" width="300" height="150" alt="" /></p>
+			
+			
+		</div>
+		<div id="column3">
+			<h2>Bhimlat-fall</h2><br>
+			<p><img src="images/Bhimlat-falls-Rajasthan.jpg" width="300" height="150" alt="" /></p>
+			
+			
+		</div>
+	</div>
+	<div id="featured-content">
+		<div id="column1">
+			<h2>Dudhsagar-Waterfalls</h2><br>
+			<p><img src="images/Dudhsagar-Waterfalls-Goa.jpg" width="300" height="150" alt="" /></p>
+			
+			
+		</div>
+		<div id="column2">
+			<h2>Elephant-Falls</h2><br>
+			<p><img src="images/Elephant-Falls-Shillong.jpg" width="300" height="150" alt="" /></p>
+			
+		</div>
+		<div id="column3">
+			<h2>Nuranang Falls</h2><br>
+			<p><img src="images/Nuranang-Falls-Arunachal-Pradesh.jpg" width="300" height="150" alt="" /></p>
+			</div>
+			<div id="column4">
+			<h2>Nohkalikai-Falls</h2><br>
+			<p><img src="images/Nohkalikai-Falls-Cherrapunji.jpg" width="300" height="150" alt="" /></p>
+			</div>
+			<div id="column5">
+			<h2>Shivasamudram-Falls</h2><br>
+			<p><img src="images/Shivasamudram-Falls-Karnataka.jpg" width="300" height="150" alt="" /></p>
+			</div>
+</div>
+
